@@ -3,9 +3,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   font-family: Arial, Helvetica, Sans-serif;
-  margin-top: 10%;
-  margin-left: 20%;
-  margin-right: 20%;
+  margin: 10% 20%;
 }
 
 img {
