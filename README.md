@@ -1,2 +1,2 @@
-# NekoPrim.gethub.io
+# NekoPrim.github.io
 Resumé
