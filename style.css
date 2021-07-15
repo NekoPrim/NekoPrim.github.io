@@ -29,8 +29,14 @@ img {
   text-align: center;
 }
 
-.exp-header, .edu-header {
+.exp-header {
   border-top: 2px solid black;
   text-align: center;
-  text-tansform: uppercase;
+  text-transform: uppercase;
+}
+
+.edu-header {
+  border-top: 2px solid black;
+  text-align: center;
+  text-transform: uppercase;
 }
