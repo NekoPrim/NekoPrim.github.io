@@ -1,7 +1,8 @@
 body {
   background-image: url("https://c1.wallpaperflare.com/preview/583/849/241/paper-crease-creased-texture.jpg");
+  background-repeat: no-repeat;
   font-family: Arial, Helvetica, Sans-serif;
-  margin: 15% 10%;
+  margin: 10% 10%;
 }
 
 img {
