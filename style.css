@@ -32,4 +32,5 @@ img {
 .exp-header, .edu-header {
   border-top: 2px solid black;
   text-align: center;
+  text-tansform: uppercase;
 }
