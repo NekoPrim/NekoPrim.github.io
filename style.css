@@ -29,12 +29,7 @@ img {
   text-align: center;
 }
 
-.exp-header {
-  border-top: 2px solid black;
-  text-align: center;
-}
-
-.edu-header {
+.exp-header, .edu-header {
   border-top: 2px solid black;
   text-align: center;
 }
