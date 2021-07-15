@@ -10,7 +10,8 @@ body {
 img {
   width: 20%;
   border: 2px solid black;
-  Position: relative;
+  position: relative;
+  float: right;
   animation-name: example;
   animation-duration: 20s;
   animation-iteration-count: infinite;
