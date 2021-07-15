@@ -37,6 +37,6 @@ img {
 
 .edu-header {
   border-top: 2px solid black;
-  text-align: center;
+  padding-left:200px;
   text-transform: uppercase;
 }
